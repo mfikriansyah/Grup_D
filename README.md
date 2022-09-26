@@ -1,3 +1,5 @@
 # Grup_D
-Dany Prasetyo Fawzi_5520120101
-IF A 2020
+Nama Anggota Grup D :
+Nama : Dany Prasetyo Fawzi
+NPM : 5520120101
+Kelas : IF A 2020
